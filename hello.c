@@ -7,3 +7,9 @@ int main()
   printf("nice to meet you!\n");
   exit(0);
 }
+
+void
+silly()
+{
+}
+
